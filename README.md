@@ -1,4 +1,4 @@
-# Análisis de caso Manzanar - Censo 2017 - Hito 3
+# Análisis exploratorio de caso Manzanar - Censo 2017 - Hito 3
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Censo_2017.png" width=300>
 
 ## Descripción
